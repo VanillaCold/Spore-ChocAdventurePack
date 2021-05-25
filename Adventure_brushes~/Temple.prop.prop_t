@@ -1,0 +1,13 @@
+key parent Adventure_brushes~!0x61594689.prop
+texts spaceToolDescription
+	"Temple"
+end
+key spaceToolImageID editors_scenario_2~!temple.png
+float terraformBrushIntensityDefault 0.5
+vector2 terraformBrushIntensityRange (1, 1)
+float terraformBrushSizeDefault 1.05
+vector2 terraformBrushSizeRange (0.1, 5)
+key terraformMarkerModelID 0x079A8EE7!CAPTerraformingMarker.prop #0x248851CB.prop 
+key terraformModelID cr_feature_temple.prop
+#key terraformToolPreviewEffect 0x739BB423
+float terraformBrushComplexity 0.125

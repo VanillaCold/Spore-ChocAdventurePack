@@ -1,0 +1,12 @@
+key parent Adventure_brushes~!0x61594689.prop
+texts spaceToolDescription
+	"Homeworld - Potato"
+end
+key spaceToolImageID editors_scenario_2~!grobsignature.png
+float terraformBrushIntensityDefault 0.5
+vector2 terraformBrushIntensityRange (1, 1)
+float terraformBrushSizeDefault 1.05
+vector2 terraformBrushSizeRange (0.1, 5)
+key terraformMarkerModelID 0x079A8EE7!test.prop
+key terraformToolPreviewEffect 0x739BB423
+#key toolGenericEffectID 0x2CCB40D2

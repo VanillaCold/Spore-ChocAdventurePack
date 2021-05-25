@@ -1,0 +1,419 @@
+key parent planetTerrainThemes~!SpiralTheme.prop
+keys modelEffect
+	CC_soft_cube~
+	GO_raise_land~
+	GO_raise_lowlands~
+	GO_lower_seabed~
+	GO_lower_shallows~
+	GO_invert_all~
+	#GO_raise_land~
+	GO_blur_all_more~
+	GO_flatten_lowlands~
+	BR_SGZB_hills_barnacle_all~
+	BR_SGZB_hills_barnacle_all~
+	BR_SGZB_hills_barnacle_all~
+	BR_SGZB_hills_barnacle_all~
+	BR_SGZB_hills_barnacle_all~
+	BR_SGZB_hills_barnacle_all~
+	BR_SGZB_hills_barnacle_all~
+	BR_SGZB_hills_barnacle_all~
+	BR_SGZB_hills_barnacle_all~
+	BR_SGZB_hills_barnacle_all~
+	BR_SGZB_hills_barnacle_all~
+	BR_SGZB_hills_barnacle_all~
+	BR_SGZB_hills_barnacle_all~
+	BR_SGZB_hills_barnacle_all~
+	BR_SGZB_hills_barnacle_all~
+	BR_SGZB_hills_barnacle_all~
+	BR_SGZB_hills_barnacle_all~
+	BR_SGZB_hills_barnacle_all~
+	BR_spiral_sea~
+	BR_spiral~
+	BR_spiral~
+	BR_spiral~
+	BR_spiral~
+	BR_spiral~
+	BR_spiral~
+	BR_spiral~
+	BR_spiral~
+	BR_spiral~
+	BR_spiral~
+	BR_spiral~
+	BR_spiral~
+	BR_spiral~
+	BR_spiral~
+	BR_spiral~
+	BR_spiral~
+	BR_spiral~
+	BR_spiral~
+	BR_spiral~
+	BR_spiral~
+	BR_spiral_sea~
+	BR_spiral_sea~
+	BR_spiral_sea~
+	BR_spiral_sea~
+	BR_spiral_sea~
+	BR_spiral_sea~
+	BR_spiral_sea~
+	BR_spiral_sea~
+	BR_spiral_sea~
+	BR_SGZB_hills_dome~
+	BR_SGZB_hills_dome~
+	BR_SGZB_hills_dome~
+end
+uint32 modelEffectSeed 0xf88a5968
+transforms modelEffectTransforms
+	-offset (141.6973572, 413.5640869, 247.9664917) -scale 1 -rotateXYZ 59.0537376 -16.3755417 -0.0000196
+	-offset (446.3018799, 176.0844727, 131.5887756) -scale 1 -rotateXYZ 53.2291069 -63.777935 -50.2046051
+	-offset (467.6806641, 122.8140869, 131.6116333) -scale 1 -rotateXYZ 43.019577 -68.9478989 -41.0516281
+	-offset (353.930481, 291.0404663, 197.5846405) -scale 1 -rotateXYZ 55.827774 -45.1751823 -46.2535019
+	-offset (285.1655884, 351.0579834, 205.2179108) -scale 1 -rotateXYZ 59.6907272 -35.0409355 -0.0000219
+	-offset (194.5314941, 402.4608154, 196.1304321) -scale 1 -rotateXYZ 64.0187225 -23.4852104 0.0000279
+	#-offset (194.5314941, 402.4608154, 196.1304321) -scale 1 -rotateXYZ 64.0187225 -23.4852104 0.0000279
+	-offset (117.6295166, 402.3754883, 265.7730713) -scale 1 -rotateXYZ 56.5548592 -13.7084703 -0.0000018
+	-offset (-221.6597595, 428.6377869, -193.7394104) -scale 1 -rotateXYZ 114.322403 25.2310715 -0.0000132
+	-offset (507.911438, -77.5220337, 65.2745514) -scale 2.1199999 -rotateXYZ -49.9020767 -78.716011 49.3501587
+	-offset (-171.4500122, 400.8633728, 208.9880219) -scale 3.3199999 -rotateXYZ 62.4649544 20.7695026 -0.0000009
+	-offset (467.1472778, 169.2295837, -198.3549957) -scale 3.2 -rotateXYZ 139.5303345 -60.8321381 -143.314621
+	-offset (101.8892288, 486.7304077, 9.8649979) -scale 3.2 -rotateXYZ 88.8389053 -11.8208742 0.0000034
+	-offset (111.5820923, 125.6589584, 500.5950928) -scale 3.2 -rotateXYZ 14.0912113 -12.1991234 0.0000096
+	-offset (-191.4588776, -259.5215149, 377.9338074) -scale 3.8 -rotateXYZ -34.4767723 22.6660919 0.0000102
+	-offset (139.7197113, 212.1794586, -412.0358276) -scale 3.8 -rotateXYZ 152.7536469 -16.7765923 -0.0000236
+	-offset (-457.8520813, 15.6185007, 250.135025) -scale 3.2 -rotateXYZ 3.5728822 61.3043137 3.1350052
+	-offset (261.0580139, -430.1749268, 116.2879181) -scale 3.2 -rotateXYZ -74.8729553 -30.3633556 -0.0000153
+	-offset (440.7887573, 216.1334229, 170.2735443) -scale 2.1199999 -rotateXYZ 51.7683754 -58.0268135 -47.1169968
+	-offset (-369.6365356, 131.2984161, -280.736908) -scale 3.3199999 -rotateXYZ 154.9348297 50.0216637 160.2829437
+	-offset (-265.7655029, -161.9977875, -363.8253784) -scale 2.8399999 -rotateXYZ -155.9983673 33.7157516 -166.1173706
+	-offset (-174.0792542, -444.1583862, -129.6262054) -scale 2.8399999 -rotateXYZ -106.2697067 20.6180401 0.0000018
+	-offset (-120.5248032, -367.2508545, 326.8297119) -scale 2.3599999 -rotateXYZ -48.3329849 13.7748337 0.0000123
+	-offset (469.558136, 43.4940834, 215.3252106) -scale 2.8399999 -rotateXYZ 11.4196854 -64.9283524 -10.3682098
+	-offset (-234.8381653, 172.2772827, 454.7887878) -scale 3.8 -rotateXYZ 20.7470779 25.7751102 9.3538094
+	-offset (111.2010117, -405.7798157, -238.4829712) -scale 3.8 -rotateXYZ -120.4433746 -13.2930012 0.0000031
+	-offset (-394.7539368, 282.4483643, 72.2736359) -scale 3.8 -rotateXYZ 75.6470108 53.5519943 72.3539047
+	-offset (221.8848114, 369.106781, 241.6406097) -scale 3.4000001 -rotateXYZ 56.7886734 -26.6999931 0.0000277
+	-offset (-246.1912231, 410.0455322, -213.6352081) -scale 3.2 -rotateXYZ 117.5196991 28.0337429 0.0000222
+	-offset (-94.1250916, -9.2831945, -510.9362793) -scale 3.2 -rotateXYZ -178.9590912 10.4363461 -179.8114014
+	-offset (-463.7280884, -46.9375153, -229.6836243) -scale 2.3599989 -rotateXYZ -168.4501495 63.1818047 -169.6640778
+	-offset (-357.1236877, -345.8138428, -151.2509003) -scale 1.879999 -rotateXYZ -113.6234055 43.4154015 169.1279755
+	-offset (60.9727783, -398.9772949, 290.859375) -scale 3.3199999 -rotateXYZ -53.9074936 -7.0398722 -68.4000015
+	-offset (368.6179199, 117.0118027, 370.6055908) -scale 3.6800001 -rotateXYZ 17.5225315 -43.4854927 -80.6585541
+	-offset (319.5474243, 403.8284302, -69.3790588) -scale 2.96 -rotateXYZ 99.7484207 -37.949604 -68.4000168
+	-offset (384.1202393, 27.2904663, -348.3806152) -scale 2.96 -rotateXYZ 175.520874 -47.7060471 114.9162521
+	-offset (103.3949738, -228.4764404, -407.677124) -scale 1.759999 -rotateXYZ -150.732193 -12.4753599 -68.400032
+	-offset (-99.6976471, -216.9851074, -461.4968872) -scale 1.519999 -rotateXYZ -154.818161 11.0618143 -68.400032
+	-offset (26.7069778, 337.983551, -337.9242859) -scale 1.759999 -rotateXYZ 134.9949493 -3.1983209 -68.4000397
+	-offset (503.4140015, 125.682251, 27.9250946) -scale 2.72 -rotateXYZ 77.4730225 -75.6542053 -145.4831543
+	-offset (127.9317627, 335.6998291, 351.4243164) -scale 2.24 -rotateXYZ 43.6890106 -14.7477493 -68.3999939
+	-offset (236.3148193, 431.6018677, 138.0439453) -scale 1.639999 -rotateXYZ 72.2636108 -27.5422821 -68.4000244
+	-offset (359.7455139, -368.892334, -67.0834656) -scale 2.3599989 -rotateXYZ -100.3066635 -43.8150139 -68.400032
+	-offset (-283.8007812, 184.4501343, 413.7237854) -scale 3.920001 -rotateXYZ 24.028698 32.0680618 -55.0830498
+	-offset (-263.9647827, -68.1773758, 438.8212891) -scale 1.879999 -rotateXYZ -8.8311625 30.7272625 -72.9388504
+	-offset (356.7394104, -299.3721313, 223.1712494) -scale 1.879999 -rotateXYZ -53.2967529 -43.6926727 -25.5800858
+	-offset (-355.5650635, -265.1921082, 161.6116028) -scale 2.5999999 -rotateXYZ -58.6413193 48.8655128 -119.4225006
+	-offset (-254.5841064, 397.6667175, 85.6722336) -scale 1.759999 -rotateXYZ 77.842186 32.0398102 -68.4000244
+	-offset (44.3282318, -85.8498917, 475.7769775) -scale 4 -rotateXYZ -10.2284479 -5.2387853 0.0000123
+	-offset (423.0738525, -143.6860962, 215.9241333) -scale 2.319999 -rotateXYZ -33.641613 -58.4899025 29.5673027
+	-offset (-493.6277161, 6.5612068, -19.4367599) -scale 2.6799991 -rotateXYZ 161.3470001 87.6201859 161.361969
+	-offset (477.9754639, -170.0780029, -99.7591324) -scale 3.4000001 -rotateXYZ -120.3937607 -67.5827026 122.3950653
+	-offset (9.3004274, 482.5447998, 108.6066742) -scale 3.4000001 -rotateXYZ 77.3157349 -1.0772024 0
+	-offset (-434.1550293, 198.3134766, 105.2939835) -scale 3.4000001 -rotateXYZ 62.0340347 62.6532593 59.1310997
+	-offset (41.6399422, -497.3928833, -13.5028505) -scale 3.4000001 -rotateXYZ -91.5550156 -4.7836595 0.0000023
+	-offset (-39.3103943, 217.6303558, 479.6177979) -scale 1.839999 -rotateXYZ 24.4065628 4.2684922 0.0000027
+	-offset (398.4750977, 310.0370178, 122.8660736) -scale 1.839999 -rotateXYZ 68.3818283 -50.0730553 -62.6712685
+	-offset (58.5708656, -481.9283142, 142.8654938) -scale 3.2 -rotateXYZ -73.4877777 -6.6462312 -0.0000092
+	-offset (302.3814392, -37.4471512, -402.761261) -scale 3.2 -rotateXYZ -174.6881256 -36.7798119 176.8136902
+	-offset (60.1021996, -24.2667236, 480.3217468) -scale 4.400001 -rotateXYZ -2.8922305 -7.1233015 0.3589514
+end
+floats terrainScriptEffectIntensities
+	1
+	1
+	#1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	0.808
+	1
+	1
+	0.904
+	0.88
+	0.916
+	0.916
+	1
+	1
+	0.687999
+	0.663999
+	0.711999
+	1
+	0.579999
+	0.471999
+	0.868
+	0.363999
+	0.76
+	0.76
+	0.76
+	0.711999
+	1
+	0.772
+	0.856
+	0.808
+	0.387999
+	0.387999
+	0.411999
+	0.375999
+	0.772
+	1
+	1
+	1
+end
+uint32s terrainScriptEffectSeeds
+	0xf88a5968
+	#0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+	0xf88a5968
+end
+floats terrainScriptEffectTimes
+	0
+	#0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+end
+transforms terrainScriptModelTransforms
+#	-offset (-94.1250916, -9.2831945, -510.9362793) -scale 1 -rotateXYZ -178.9590912 10.4363461 -179.8114014
+#	-offset (-463.7280884, -46.9375153, -229.6836243) -scale 1 -rotateXYZ -168.4501495 63.1818047 -169.6640778
+#	-offset (-357.1236877, -345.8138428, -151.2509003) -scale 1 -rotateXYZ -113.6234055 43.4154015 169.1279755
+#	-offset (60.9727783, -398.9772949, 290.859375) -scale 1 -rotateXYZ -53.9074936 -7.0398722 -68.4000015
+#	-offset (368.6179199, 117.0118027, 370.6055908) -scale 1 -rotateXYZ 17.5225315 -43.4854927 -80.6585541
+#	-offset (319.5474243, 403.8284302, -69.3790588) -scale 1 -rotateXYZ 99.7484207 -37.949604 -68.4000168
+#	-offset (384.1202393, 27.2904663, -348.3806152) -scale 1 -rotateXYZ 175.520874 -47.7060471 114.9162521
+#	-offset (103.3949738, -228.4764404, -407.677124) -scale 1 -rotateXYZ -150.732193 -12.4753599 -68.400032
+#	-offset (-99.6976471, -216.9851074, -461.4968872) -scale 1 -rotateXYZ -154.818161 11.0618143 -68.400032
+#	-offset (26.7069778, 337.983551, -337.9242859) -scale 1 -rotateXYZ 134.9949493 -3.1983209 -68.4000397
+#	-offset (503.4140015, 125.682251, 27.9250946) -scale 1 -rotateXYZ 77.4730225 -75.6542053 -145.4831543
+#	-offset (127.9317627, 335.6998291, 351.4243164) -scale 1 -rotateXYZ 43.6890106 -14.7477493 -68.3999939
+#	-offset (236.3148193, 431.6018677, 138.0439453) -scale 1 -rotateXYZ 72.2636108 -27.5422821 -68.4000244
+#	-offset (359.7455139, -368.892334, -67.0834656) -scale 1 -rotateXYZ -100.3066635 -43.8150139 -68.400032
+#	-offset (-283.8007812, 184.4501343, 413.7237854) -scale 1 -rotateXYZ 24.028698 32.0680618 -55.0830498
+#	-offset (-263.9647827, -68.1773758, 438.8212891) -scale 1 -rotateXYZ -8.8311625 30.7272625 -72.9388504
+#	-offset (356.7394104, -299.3721313, 223.1712494) -scale 1 -rotateXYZ -53.2967529 -43.6926727 -25.5800858
+#	-offset (-355.5650635, -265.1921082, 161.6116028) -scale 1 -rotateXYZ -58.6413193 48.8655128 -119.4225006
+#	-offset (-254.5841064, 397.6667175, 85.6722336) -scale 1 -rotateXYZ 77.842186 32.0398102 -68.4000244
+#	-offset (44.3282318, -85.8498917, 475.7769775) -scale 1 -rotateXYZ -10.2284479 -5.2387853 0.0000123
+#	-offset (-276.6800232, 447.2875366, -238.0523071) -scale 1 -rotateXYZ 118.0224533 28.6369057 -143.6902771
+	-offset (-438.9852295, 57.668396, 282.1010132) -scale 0.83164 -rotateXYZ 11.553421 56.7387199 -1.9476392
+	-offset (-457.0452881, -211.1547699, -128.5488739) -scale 1.0452091 -rotateXYZ -121.3325882 61.5918922 170.7516479
+	-offset (501.4891357, -24.3752441, 134.2632751) -scale 0.838104 -rotateXYZ -10.2897663 -74.778038 -168.3186951
+	-offset (501.5836182, 143.3078156, -121.397522) -scale 0.893225 -rotateXYZ 130.2682495 -69.4718704 79.9280853
+	-offset (108.0938873, 492.8829346, 13.6808319) -scale 0.841571 -rotateXYZ 88.4100418 -12.3650599 -30.9089546
+	-offset (110.9495239, 168.84198, 495.1323853) -scale 1.03757 -rotateXYZ 18.8295727 -11.9743462 -4.4881659
+	-offset (238.0805054, -42.0080566, -444.3474731) -scale 0.840712 -rotateXYZ -174.59935 -28.0763111 5.1841521
+	-offset (431.859314, 158.8130341, -269.5567627) -scale 0.819638 -rotateXYZ 149.4949341 -54.078434 32.9984207
+end
+keys terrainScriptModels
+#	Adventure_roads~!spiral_vent.prop
+#	Adventure_roads~!spiral_vent.prop
+#	Adventure_roads~!spiral_vent.prop
+#	Adventure_roads~!spiral_vent.prop
+#	Adventure_roads~!spiral_vent.prop
+#	Adventure_roads~!spiral_vent.prop
+#	Adventure_roads~!spiral_vent.prop
+#	Adventure_roads~!spiral_vent.prop
+#	Adventure_roads~!spiral_vent.prop
+#	Adventure_roads~!spiral_vent.prop
+#	Adventure_roads~!spiral_vent.prop
+#	Adventure_roads~!spiral_vent.prop
+#	Adventure_roads~!spiral_vent.prop
+#	Adventure_roads~!spiral_vent.prop
+#	Adventure_roads~!spiral_vent.prop
+#	Adventure_roads~!spiral_vent.prop
+#	Adventure_roads~!spiral_vent.prop
+#	Adventure_roads~!spiral_vent.prop
+#	Adventure_roads~!spiral_vent.prop
+#	Adventure_roads~!spiral_vent.prop
+#	Adventure_roads~!spiral_vent.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+end
+vector3 terrainScriptPlanetInfo (39, 39, 500)
+vector3 terrainScriptWTALevels (0.5, 0.5, 0.5)
+vector3 terrainThemeAirColor (0.2588235, 0.6784315, 1)
+vector3 terrainThemeBeachColor (0.8705883, 0.7450981, 0.5019608)
+vector3 terrainThemeCliffColor (0.5272331, 0.466231, 0.3616558)
+keys terrainThemeFlora
+end
+int32s terrainThemeFloraBracketIndexes
+end
+floats terrainThemeFloraDensities
+end
+keys terrainScriptAmbientEffectSelect1
+end
+float terrainThemeFloraGlobalDensity 1
+vector3s terrainThemePlanetColors
+	(0.722342, 0.4705939, 0.3081401)
+	(0.8569973, 0.6608686, 0.5767621)
+	(0.7114455, 0.6440282, 0.4591934)
+	(0.6498824, 0.6775689, 0.3584146)
+	(0.5547339, 0.6551711, 0.2352773)
+	(0.4539215, 0.6439834, 0.1401624)
+	(0.4986666, 0.6383755, 0.2409132)
+	(0.4257815, 0.6383588, 0.1625602)
+	(0.4537423, 0.6495464, 0.2521065)
+	(0.3697815, 0.5655912, 0.2017311)
+	(0.4536248, 0.5431935, 0.3193446)
+	(0.3696863, 0.5431935, 0.2689132)
+end
+floats terrainThemePlanetColorsList
+	0
+	0.0322581
+	0.0967742
+	0.1935484
+	0.2258064
+	0.2903226
+	0.3548387
+	0.483871
+	0.516129
+	0.6774193
+	0.8064516
+	0.8709677
+end
+uint32 terrainVersion 2
+uint32 terrainWaterType 11
+key visualStyle animations~

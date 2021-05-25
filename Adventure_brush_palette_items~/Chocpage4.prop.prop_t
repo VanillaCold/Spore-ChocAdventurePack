@@ -1,0 +1,37 @@
+int32s palettePagePartItemColumns
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+end
+int32s palettePagePartItemRows
+	0
+	0
+	0
+	1
+	1
+	1
+	2
+	2
+	2
+	3
+end
+keys palettePagePartItems
+	Adventure_Brushes~!LargePickleRock
+	Adventure_Brushes~!MassivePickleRock
+	Adventure_Brushes~!MassivePicklePile
+	Adventure_Brushes~!Obelisk
+	Adventure_Brushes~!GrobBrush
+	Adventure_Brushes~!BigCog
+	Adventure_Brushes~!CubeHills-Normal
+	Adventure_Brushes~!RiftZoneMed
+	Adventure_Brushes~!SpiralHill
+	Adventure_Brushes~!Cracks
+end
+key palettePagePartParentPage ChocPages4

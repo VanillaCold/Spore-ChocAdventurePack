@@ -1,0 +1,18 @@
+key parent Adventure_brushes~!0x61594689.prop
+texts spaceToolDescription
+	"Destroyed City"
+end
+key spaceToolImageID editors_scenario_2~!city.png
+float terraformBrushIntensityDefault 0.5
+vector2 terraformBrushIntensityRange (1, 1)
+float terraformBrushSizeDefault 1.05
+vector2 terraformBrushSizeRange (0.1, 50)
+key terraformMarkerModelID 0x079A8EE7!CAPTerraformingMarker.prop #0x248851CB.prop 
+key terraformModelID spg_alien_citywalls_destroyed_01 #citystyles_models~!colony_walls
+#key toolPlacedModelKey citystyles_models~!colony_walls
+#key terraformToolPreviewEffect 0x739BB423
+float terraformBrushComplexity 0.125
+bool modelRotationRingYAxisIsHidden false
+bool modelRotationRingZAxisIsHidden false
+bool modelRotationRingXAxisIsHidden false
+bool modelAllowAsymmetricalRotationOnPlaneOfSymmetry true

@@ -1,0 +1,19 @@
+key parent Adventure_brushes~!0x61594689.prop
+texts spaceToolDescription
+	"Invisible Spice Geyser (Texture)"
+end
+key spaceToolImageID editors_scenario_2~!spicegeyser.png
+float terraformBrushIntensityDefault 0.5
+vector2 terraformBrushIntensityRange (1, 1)
+float terraformBrushSizeDefault 1.05
+vector2 terraformBrushSizeRange (0.25, 2)
+key terraformMarkerModelID 0x079A8EE7!CAPTerraformingMarker.prop #0x248851CB.prop 
+key terraformModelID Adventure_roads~!potatoeye_resource_pile  #syrup_resource1 potatoeye_resource_pile
+#vector3 0x4888547A (0, 9, 0)
+#uint32 0x6A1D4698 0x8057a1e0
+#vector3 0xB14CA983 (0, 2, 6)
+#key terraformToolPreviewEffect 0x6E58A2F9
+#bool modelRotationRingZAxisIsHidden false
+#bool modelRotationRingZAxisIsHidden false
+#bool modelRotationRingXAxisIsHidden false
+float terraformBrushComplexity 0.125

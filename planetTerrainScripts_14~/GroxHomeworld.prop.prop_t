@@ -1,0 +1,182 @@
+key parent 0x4284A700!0x8C300908.prop
+keys modelEffect
+	LP_oceans_terrestrial_large~
+	LP_oceans_terrestrial_large~
+	GP_oceans_terrestrial~
+	GP_oceans_terrestrial~
+	GO_invert_seabed~
+	GO_high_dense_variation~
+	GO_lower_all_more~
+	GO_lower_all_more~
+	GO_lower_all_more~
+	GO_invert_seabed~
+	GO_medium_dense_variation~
+	GO_lower_all~
+	GO_lower_all~
+	GO_lower_all~
+	GO_lower_all~
+	GO_high_dense_variation~
+	GO_blur_all~
+	GO_polar_oceans~
+	GO_lower_all~
+	GO_lower_all~
+	GO_lower_all~
+	GO_lower_all~
+	GO_lower_all~
+	GO_lower_all~
+	LP_Grob_Signature~
+end
+transforms modelEffectTransforms
+	-offset (-2.091258, 39.7320061, 501.0166931) -scale 1 -rotateXYZ 4.534234 0.2384092 -0.0000028
+	-offset (450.6113892, 160.7755585, 153.9526367) -scale 1 -rotateXYZ 46.2419128 -63.7109604 -43.1159515
+	-offset (199.2371826, 453.0213928, 87.6176453) -scale 1 -rotateXYZ 79.0537033 -23.354414 0.0000302
+	-offset (195.2290344, 462.5512695, 23.0795555) -scale 1 -rotateXYZ 87.1435471 -22.8576241 -0.0000105
+	-offset (-285.1994629, 363.6567993, -155.4525452) -scale 1 -rotateXYZ 113.1452789 35.7965469 -0.00002
+	-offset (153.9047089, -494.9388123, 28.369072) -scale 1 -rotateXYZ -86.7194977 -17.2468357 -0.0000098
+	-offset (54.6205902, 537.7927246, 78.2252731) -scale 1 -rotateXYZ 81.723999 -5.7393346 0.0000042
+	-offset (53.1279297, 519.5245361, 65.9933853) -scale 1 -rotateXYZ 82.7606964 -5.7926912 -0.0000095
+	-offset (448.2232666, -229.3160095, -184.0863342) -scale 1 -rotateXYZ -128.7561646 -56.73246 133.8339996
+	-offset (480.012146, 31.4362888, 131.8457031) -scale 1 -rotateXYZ 13.4107676 -74.2318268 -12.9233637
+	-offset (-457.5664062, -182.1123199, -83.7083282) -scale 1 -rotateXYZ -114.685936 66.3449631 -116.6481781
+	-offset (264.7855835, 267.1083984, 381.7481689) -scale 1 -rotateXYZ 34.9804268 -29.6100655 -0.0000167
+	-offset (261.5044861, 276.0906982, 374.0536804) -scale 1 -rotateXYZ 36.4312096 -29.3569908 -0.0000196
+	-offset (254.2177124, 282.5827637, 367.7723694) -scale 1 -rotateXYZ 37.5373306 -28.7280388 0.0000438
+	-offset (247.157486, 295.1141357, 360.9564209) -scale 1 -rotateXYZ 39.269062 -27.9283142 0.0000203
+	-offset (440.9770813, -201.5460358, -203.6148682) -scale 1 -rotateXYZ -135.292511 -56.9888382 140.3057709
+	-offset (-61.0983276, 459.4367065, 176.3190918) -scale 1 -rotateXYZ 69.0045624 7.0773945 0.0000187
+	-offset (-357.0650024, 56.9462891, 384.1789551) -scale 1 -rotateXYZ 8.4314718 42.5947876 5.7288799
+	-offset (-210.8238525, 83.8040161, 493.4916382) -scale 1 -rotateXYZ 9.6379652 22.839798 3.7712662
+	-offset (-206.8594971, 81.2518921, 489.579895) -scale 1 -rotateXYZ 9.4230766 22.6275005 3.6535039
+	-offset (-304.203186, -112.5544357, 357.7168579) -scale 1 -rotateXYZ -17.4660358 39.0488014 -11.2119503
+	-offset (-292.6481934, -127.3210754, 350.5829468) -scale 1 -rotateXYZ -19.9594669 38.1179924 -12.6355591
+	-offset (-145.7568054, -413.4650269, 233.7403412) -scale 1 -rotateXYZ -60.5196342 17.0603065 0.0000094
+	-offset (459.2390137, 17.6549664, -163.895874) -scale 1 -rotateXYZ 173.8517914 -70.254364 -174.2107697
+	-offset (187.1195984, 466.178894, 74.020813) -scale 1 -rotateXYZ 80.9777908 -21.6245575 0.0000009
+end
+floats terrainScriptEffectIntensities
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+end
+uint32s terrainScriptEffectSeeds
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+end
+floats terrainScriptEffectTimes
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+end
+vector3 terrainScriptPlanetInfo (32, 8, 500) #(15, 15, 500)
+vector3 terrainThemeAirColor (0.2588235, 0.6784315, 1)
+vector3 terrainThemeBeachColor (0.8705883, 0.7450981, 0.5019608)
+vector3 terrainThemeCliffColor (0.5272331, 0.466231, 0.3616558)
+keys terrainThemeFlora
+end
+int32s terrainThemeFloraBracketIndexes
+end
+floats terrainThemeFloraDensities
+end
+float terrainThemeFloraGlobalDensity 1
+colorRGBs terrainThemePlanetColors
+	(0.722342, 0.3081401, 0.3081401)
+	(0.8569973, 0.5767621, 0.5767621)
+	(0.7114455, 0.4591934, 0.4591934)
+	(0.6775689, 0.3584146, 0.3584146)
+	(0.6551711, 0.2352773, 0.2352773)
+	(0.6439834, 0.1401624, 0.1401624)
+	(0.6383755, 0.2409132, 0.2409132)
+	(0.6383588, 0.1625602, 0.1625602)
+	(0.6495464, 0.2521065, 0.2521065)
+	(0.5655912, 0.2017311, 0.2017311)
+	(0.5431935, 0.3193446, 0.3193446)
+	(0.5431935, 0.2689132, 0.2689132)
+end
+floats terrainThemePlanetColorsList
+	0
+	0.0322581
+	0.0967742
+	0.1935484
+	0.2258064
+	0.2903226
+	0.3548387
+	0.483871
+	0.516129
+	0.6774193
+	0.8064516
+	0.8709677
+end
+vector3s terrainScriptPlanetInfoSelect
+	(32, 8, 500)
+end
+vector3 terrainScriptWTALevels (0.5, 1, 0.25)
+uint32 terrainVersion 2
+uint32 terrainWaterType 11
+key visualStyle animations~

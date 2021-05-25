@@ -1,0 +1,84 @@
+key parent planetTerrainThemes3~!0xF57CD91A.prop
+keys modelEffect
+	Patch1_lopsided_filter~
+	Patch1_lopsided_filter~
+	Patch1_lopsided_filter~
+	Patch1_lopsided_filter~
+end
+uint32 modelEffectSeed 0xad0f7937
+transforms modelEffectTransforms
+	-offset (-7.720397, 12.3516474, 503.1028137) -scale 1 -rotateXYZ 1.4063882 0.8788962 -0.0000275
+	-offset (473.3312988, -135.5727844, -73.4701843) -scale 1 -rotateXYZ -118.4543076 -71.9555511 119.6812363
+	-offset (465.0164185, 136.8790588, 134.7874451) -scale 1 -rotateXYZ 45.4411125 -67.5539703 -43.1853485
+	-offset (-248.2661133, 229.8052063, -304.3956299) -scale 1 -rotateXYZ 142.9488068 33.0613518 157.615387
+end
+uint32 terrainAtmosphereType 11
+bool terrainHazardsEnable true
+bool terrainOverrideMode true
+uint32 terrainPlayerGroundEffects 0x432e18b7
+keys terrainScriptAmbientEffects
+	0x57974AC6
+	0x432E18B7
+end
+unknown terrainScriptAmbientSoundEffects
+vector3 terrainScriptERLLevels (0.5, 0, 0)
+floats terrainScriptEffectIntensities
+	1
+	1
+	1
+	1
+end
+uint32s terrainScriptEffectSeeds
+	0x9f9e15c4
+	0x9f9e15c4
+	0x9f9e15c4
+	0x9f9e15c4
+end
+floats terrainScriptEffectTimes
+	0
+	0
+	0
+	0
+end
+floats terrainScriptEffectWaterLevels
+	0.5
+	0.5
+	0.5
+	0.5
+end
+vector3 terrainScriptPlanetInfo (49, 7, 750)
+vector3 terrainScriptWTALevels (0.5, 0.5, 0.5)
+vector3 terrainThemeAirColor (0.2588235, 0.6784315, 1)
+vector3 terrainThemeBeachColor (1, 0.6796876, 0.5703125)
+vector3 terrainThemeCliffColor (0.6187364, 0.4008715, 0.4270153)
+keys terrainThemeFlora
+end
+int32s terrainThemeFloraBracketIndexes
+end
+floats terrainThemeFloraDensities
+end
+float terrainThemeFloraGlobalDensity 1
+vector3s terrainThemePlanetColors
+	(0.7225939, 0.470549, 0.3080169)
+	(0.2917365, 0.3810364, 0.1458207)
+	(0.3476581, 0.4648796, 0.1345602)
+	(0.3978823, 0.5040562, 0.2017199)
+	(0.4817367, 0.5208292, 0.2408852)
+	(0.6103923, 0.476045, 0.2409076)
+	(0.5151878, 0.4032775, 0.1737759)
+	(0.5991598, 0.4256584, 0.2073557)
+end
+floats terrainThemePlanetColorsList
+	0
+	0.0322581
+	0.1290323
+	0.3870968
+	0.5483871
+	0.7419355
+	0.8387097
+	0.9354838
+end
+vector3 terrainThemeWaterColor (0.1607843, 0.3607842, 0.7529413)
+uint32 terrainVersion 2
+uint32 terrainWaterType 11
+key visualStyle animations~

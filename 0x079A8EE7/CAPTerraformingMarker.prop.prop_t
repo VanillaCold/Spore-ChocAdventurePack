@@ -1,0 +1,11 @@
+key modelMeshLOD0 0xAB977819!CAPTerraformingMarker.rw4
+float modelScale 3
+bool modelRotationRingYAxisIsHidden false
+bool modelRotationRingZAxisIsHidden false
+bool modelRotationRingXAxisIsHidden false
+bool modelRotationRingYAxisAllowHidden false
+bool modelRotationRingZAxisAllowHidden false
+bool modelRotationRingXAxisAllowHidden false
+bool modelRotationRingXAxisActLikeBall true
+bool modelRotationRingYAxisActLikeBall true
+bool modelRotationRingZAxisActLikeBall true

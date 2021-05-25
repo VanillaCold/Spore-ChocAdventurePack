@@ -1,0 +1,43 @@
+int32s palettePagePartItemColumns
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+end
+int32s palettePagePartItemRows
+	0
+	0
+	0
+	1
+	1
+	1
+	2
+	2
+	2
+	3
+	3
+	3
+end
+keys palettePagePartItems
+	Adventure_Brushes~!LargeCoralRock
+	Adventure_Brushes~!MassiveCoralRock
+	Adventure_Brushes~!MassiveCoralPile
+	Adventure_Brushes~!LargeCrystalRock
+	Adventure_Brushes~!MassiveCrystalRock
+	Adventure_Brushes~!MassiveCrystalPile
+	Adventure_Brushes~!LargeFossilRock
+	Adventure_Brushes~!MassiveFossilRock1
+	Adventure_Brushes~!MassiveFossilPile1
+	Adventure_Brushes~!MassiveFossilRock2
+	Adventure_Brushes~!MassiveFossilPile2
+	Adventure_Brushes~!Temple
+end
+key palettePagePartParentPage ChocPages2

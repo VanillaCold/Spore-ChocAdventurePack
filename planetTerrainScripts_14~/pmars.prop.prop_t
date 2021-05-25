@@ -1,0 +1,113 @@
+key parent planetTerrainThemes~!mars.prop
+keys modelEffect
+	CC_mars~
+	GO_raise_all~
+	GO_raise_all~
+	GO_raise_all~
+	GO_raise_all~
+end
+transforms modelEffectTransforms
+	-offset (-119.7530518, -85.0319519, 480.6551514) -scale 1 -rotateXYZ -10.0323124 13.7844458 -2.4137006
+	-offset (105.1806335, -383.5916138, 321.1278076) -scale 1 -rotateXYZ -50.0652657 -11.8734808 0.0000161
+	-offset (-172.923584, -300.5474854, -288.9224548) -scale 1 -rotateXYZ -133.8701935 22.5279789 0.0000065
+	-offset (-208.9374084, -265.8122864, 362.3850098) -scale 1 -rotateXYZ -36.2603264 24.9338837 0.0000085
+	-offset (-209.0502319, -435.6060486, 192.4049072) -scale 1 -rotateXYZ -66.1691971 23.7010536 0.000014
+end
+floats terrainScriptEffectIntensities
+	1
+	1
+	1
+	1
+	1
+end
+uint32s terrainScriptEffectSeeds
+end
+floats terrainScriptEffectTimes
+	0
+	0
+	0
+	0
+	0
+end
+transforms terrainScriptModelTransforms
+	-offset (-299.7428589, -374.5330811, -188.9890747) -scale 0.905337 -rotateXYZ -116.775444 35.5458374 96.4339676
+	-offset (-110.9523926, -140.947876, -476.065094) -scale 1.153008 -rotateXYZ -163.5076599 12.5970497 -25.0048847
+	-offset (110.7382202, -509.9505615, 2.727478) -scale 0.938935 -rotateXYZ -89.693573 -12.2516298 48.3768578
+	-offset (-515.0742188, -14.1604004, -93.2496338) -scale 1.084089 -rotateXYZ -171.3654785 79.6231461 38.3369827
+	-offset (-399.59021, 300.9429321, -132.2232056) -scale 1.000375 -rotateXYZ 113.7189407 50.558773 -75.2880478
+	-offset (-306.0028076, 293.605957, 310.0181274) -scale 0.997909 -rotateXYZ 43.4425354 35.6276817 100.6781845
+	-offset (-142.1680908, 476.5628662, 91.0772095) -scale 0.910838 -rotateXYZ 79.1805344 16.3314285 -109.7253571
+	-offset (122.9867096, 353.3436279, -378.57901) -scale 0.906329 -rotateXYZ 136.9746704 -13.3598185 -167.1858978
+	-offset (-125.3446655, 342.7572021, -357.0112915) -scale 0.964835 -rotateXYZ 136.1669464 14.212182 20.8663921
+	-offset (-33.1815491, 48.5688477, -523.4624023) -scale 0.98063 -rotateXYZ 174.6990509 3.6115911 -59.3255768
+	-offset (399.9142456, 344.2039795, 45.2710876) -scale 0.830114 -rotateXYZ 82.5072021 -49.0385513 -18.6491203
+	-offset (514.456543, 85.0793457, -89.3960876) -scale 0.991253 -rotateXYZ 136.4174652 -76.5105209 -2.354244
+	-offset (302.9381714, -87.1209106, 406.5596924) -scale 0.871002 -rotateXYZ -12.0949297 -36.0765457 126.9887848
+	-offset (10.4660645, 264.1034546, 451.7871094) -scale 1.008491 -rotateXYZ 30.3094692 -1.1457244 144.5246277
+	-offset (-65.2342834, -341.4735718, 383.1477051) -scale 1.0701751 -rotateXYZ -41.7084503 7.2437024 75.2848358
+	-offset (-272.0315247, 9.3623657, 428.6020508) -scale 1.139102 -rotateXYZ 1.2513409 32.3969231 -78.3983231
+	-offset (-384.2901611, -316.9099121, 143.7038574) -scale 1.12388 -rotateXYZ -65.607933 47.8395958 -145.0139313
+	-offset (-476.0219727, -184.8400879, 7.9529419) -scale 0.873873 -rotateXYZ -87.5362778 68.7608337 149.6265259
+end
+keys terrainScriptModels
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+end
+vector3 terrainScriptPlanetInfo (2, 2, 500)
+vector3 terrainThemeAirColor (0.2588235, 0.6784315, 1)
+vector3 terrainThemeBeachColor (0.8705883, 0.7450981, 0.5019608)
+vector3 terrainThemeCliffColor (0.5272331, 0.466231, 0.3616558)
+keys terrainThemeFlora
+end
+int32s terrainThemeFloraBracketIndexes
+end
+floats terrainThemeFloraDensities
+end
+float terrainThemeFloraGlobalDensity 1
+vector3s terrainThemePlanetColors
+	(0.722342, 0.4705939, 0.3081401)
+	(0.8569973, 0.6608686, 0.5767621)
+	(0.7114455, 0.6440282, 0.4591934)
+	(0.6498824, 0.6775689, 0.3584146)
+	(0.5547339, 0.6551711, 0.2352773)
+	(0.4539215, 0.6439834, 0.1401624)
+	(0.4986666, 0.6383755, 0.2409132)
+	(0.4257815, 0.6383588, 0.1625602)
+	(0.4537423, 0.6495464, 0.2521065)
+	(0.3697815, 0.5655912, 0.2017311)
+	(0.4536248, 0.5431935, 0.3193446)
+	(0.3696863, 0.5431935, 0.2689132)
+end
+floats terrainThemePlanetColorsList
+	0
+	0.0322581
+	0.0967742
+	0.1935484
+	0.2258064
+	0.2903226
+	0.3548387
+	0.483871
+	0.516129
+	0.6774193
+	0.8064516
+	0.8709677
+end
+uint32 terrainVersion 2
+uint32 terrainWaterType 11
+key visualStyle animations~

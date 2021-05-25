@@ -1,0 +1,45 @@
+int32s palettePagePartItemColumns
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+end
+int32s palettePagePartItemRows
+	0
+	0
+	0
+	1
+	1
+	1
+	2
+	2
+	2
+	3
+	3
+	3
+end
+keys palettePagePartItems
+	Adventure_Brushes~!City
+	Adventure_Brushes~!CrashedUFO
+	Adventure_Brushes~!EasterHead
+	Adventure_Brushes~!Meteorite
+	Adventure_Brushes~!SpiceGeyser
+	Adventure_Brushes~!SpiralVent
+	Adventure_Brushes~!LargeTentacleRock
+	Adventure_Brushes~!MassiveTentacleRock1
+	Adventure_Brushes~!MassiveTentacleRock2
+	Adventure_Brushes~!MassiveTentaclePile1
+	Adventure_Brushes~!MassiveTentaclePile2
+	Adventure_Brushes~!SPGCrashedUFO
+	#Adventure_Brushes~!Tribe
+	#Adventure_brushes~!Brush_Homeworld_Potato
+end
+key palettePagePartParentPage ChocPages
