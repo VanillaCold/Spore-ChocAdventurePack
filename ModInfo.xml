@@ -1,0 +1,3 @@
+<mod displayName="Choc's Adventure Pack" unique="chocice75adventurepackstuffsuchasspiceishere" description="Adds various objects used in Core Spore planets to the Adventure Editor. These include rocks, crashed UFOs and spice geysers." installerSystemVersion="1.0.1.1" hasCustomInstaller="false" dllsBuild="2.5.20" requiresGalaxyReset="false" causesSaveDataDependency="false">
+	<prerequisite>!!!Chocice75_AdventurePack.package</prerequisite>
+</mod>
